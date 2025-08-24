@@ -1,0 +1,19 @@
+
+---
+
+## ▶️ Run Project
+
+git clone https://github.com/yourusername/MusicAI.git
+cd MusicAI
+pip install -r requirements.txt
+python app.py
+
+
+
+---
+
+# 📝 Step 6: Run the Project
+
+
+pip install -r requirements.txt
+python app.py
